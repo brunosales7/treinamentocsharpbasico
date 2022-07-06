@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\bin\Debug\ControleFinanceiro.View.exe.config
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\bin\Debug\ControleFinanceiro.View.exe
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\bin\Debug\ControleFinanceiro.View.pdb
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.Form1.resources
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.exe
+C:\Users\Aluno\source\repos\ControleFinanceiro\ControleFinanceiro.View\obj\Debug\ControleFinanceiro.View.pdb

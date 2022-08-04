@@ -1,0 +1,6 @@
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\obj\Debug\MetododeAutenticacao.Classes.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\obj\Debug\MetododeAutenticacao.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\bin\Debug\MetododeAutenticacao.Classes.dll
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\bin\Debug\MetododeAutenticacao.Classes.pdb
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\obj\Debug\MetododeAutenticacao.Classes.dll
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Classes\obj\Debug\MetododeAutenticacao.Classes.pdb

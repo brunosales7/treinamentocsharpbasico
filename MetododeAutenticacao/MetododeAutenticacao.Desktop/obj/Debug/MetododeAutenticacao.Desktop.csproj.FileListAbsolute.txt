@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.TelaAutenticacao.resources
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.Properties.Resources.resources
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.TelaNivel.resources
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bin\Debug\MetododeAutenticacao.Desktop.exe.config
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bin\Debug\MetododeAutenticacao.Desktop.exe
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bin\Debug\MetododeAutenticacao.Desktop.pdb
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bin\Debug\MetododeAutenticacao.Classes.dll
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bin\Debug\MetododeAutenticacao.Classes.pdb
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.CopyComplete
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.exe
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\bin\Debug\AmbientacaoWindowsForms.SistemaSOE.exe.config
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\bin\Debug\AmbientacaoWindowsForms.SistemaSOE.exe
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\bin\Debug\AmbientacaoWindowsForms.SistemaSOE.pdb
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.exe
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.pdb
+C:\Users\Aluno\source\repos\AmbientacaoWindowsForms\AmbientacaoWindowsForms.SistemaSOE\obj\Debug\AmbientacaoWindowsForms.SistemaSOE.Form1.resources

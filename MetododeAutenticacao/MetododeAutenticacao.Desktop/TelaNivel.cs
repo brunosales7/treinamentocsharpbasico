@@ -44,14 +44,33 @@ namespace MetododeAutenticacao.Desktop
         private void txtPesquisar_Click(object sender, EventArgs e)
         {
             NivelDAO nivel = new NivelDAO();
-            MessageBox.Show(nivel.Pesquisar());
+            dgvNivel.DataSource= nivel.PesquisarPorNome(txtNome.Text);
+            
         }
 
         private void txtDeletar_Click(object sender, EventArgs e)
         {
 
             NivelDAO nivel = new NivelDAO();
-            MessageBox.Show(nivel.Deletar());
+            MessageBox.Show(nivel.Deletar(txtID.Text));//DELETAR USUARIO
+            NivelDAO nivelQuery = new NivelDAO();
+            dgvNivel.DataSource = nivelQuery.Pesquisar();
+
+        }
+
+        private void TelaNivel_Load(object sender, EventArgs e)
+        {
+            /*
+            dgvNivel.DataSource = new NivelDAO().Pesquisar();
+            */
+            NivelDAO nivelQuery = new NivelDAO();
+            dgvNivel.DataSource = nivelQuery.Pesquisar();
+        }
+
+        private void dgvNivel_RowHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            txtID.Text = dgvNivel.Rows[e.RowIndex].Cells[0].Value.ToString();
+            txtNome.Text = dgvNivel.Rows[e.RowIndex].Cells[1].Value.ToString();
         }
     }
 }

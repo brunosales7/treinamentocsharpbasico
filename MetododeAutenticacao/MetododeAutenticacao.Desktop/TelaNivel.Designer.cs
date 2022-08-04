@@ -35,7 +35,7 @@
             this.dgvNivel = new System.Windows.Forms.DataGridView();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnAtualizar = new System.Windows.Forms.Button();
-            this.txtPesquisar = new System.Windows.Forms.Button();
+            this.txtSelecionar = new System.Windows.Forms.Button();
             this.txtDeletar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNivel)).BeginInit();
             this.SuspendLayout();
@@ -81,6 +81,7 @@
             this.dgvNivel.Name = "dgvNivel";
             this.dgvNivel.Size = new System.Drawing.Size(544, 191);
             this.dgvNivel.TabIndex = 4;
+            this.dgvNivel.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvNivel_RowHeaderMouseClick);
             // 
             // btnCadastrar
             // 
@@ -102,15 +103,15 @@
             this.btnAtualizar.UseVisualStyleBackColor = true;
             this.btnAtualizar.Click += new System.EventHandler(this.btnAtualizar_Click);
             // 
-            // txtPesquisar
+            // txtSelecionar
             // 
-            this.txtPesquisar.Location = new System.Drawing.Point(181, 196);
-            this.txtPesquisar.Name = "txtPesquisar";
-            this.txtPesquisar.Size = new System.Drawing.Size(75, 23);
-            this.txtPesquisar.TabIndex = 7;
-            this.txtPesquisar.Text = "Pesquisar";
-            this.txtPesquisar.UseVisualStyleBackColor = true;
-            this.txtPesquisar.Click += new System.EventHandler(this.txtPesquisar_Click);
+            this.txtSelecionar.Location = new System.Drawing.Point(181, 196);
+            this.txtSelecionar.Name = "txtSelecionar";
+            this.txtSelecionar.Size = new System.Drawing.Size(75, 23);
+            this.txtSelecionar.TabIndex = 7;
+            this.txtSelecionar.Text = "Selecionar";
+            this.txtSelecionar.UseVisualStyleBackColor = true;
+            this.txtSelecionar.Click += new System.EventHandler(this.txtPesquisar_Click);
             // 
             // txtDeletar
             // 
@@ -126,9 +127,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(571, 450);
             this.Controls.Add(this.txtDeletar);
-            this.Controls.Add(this.txtPesquisar);
+            this.Controls.Add(this.txtSelecionar);
             this.Controls.Add(this.btnAtualizar);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.dgvNivel);
@@ -138,6 +140,7 @@
             this.Controls.Add(this.label);
             this.Name = "TelaNivel";
             this.Text = "TelaNivel";
+            this.Load += new System.EventHandler(this.TelaNivel_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvNivel)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -153,7 +156,7 @@
         private System.Windows.Forms.DataGridView dgvNivel;
         private System.Windows.Forms.Button btnCadastrar;
         private System.Windows.Forms.Button btnAtualizar;
-        private System.Windows.Forms.Button txtPesquisar;
+        private System.Windows.Forms.Button txtSelecionar;
         private System.Windows.Forms.Button txtDeletar;
     }
 }

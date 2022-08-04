@@ -13,3 +13,4 @@ C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\bi
 C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.csproj.CopyComplete
 C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.exe
 C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.pdb
+C:\Users\Aluno\source\repos\MetododeAutenticacao\MetododeAutenticacao.Desktop\obj\Debug\MetododeAutenticacao.Desktop.TelaCadUsuario.resources

@@ -41,7 +41,7 @@
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(194, 23);
             this.btnEnviar.TabIndex = 0;
-            this.btnEnviar.Text = "Enviar";
+            this.btnEnviar.Text = "Acessar";
             this.btnEnviar.UseVisualStyleBackColor = true;
             this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
@@ -89,7 +89,7 @@
             this.Controls.Add(this.btnEnviar);
             this.Name = "TelaAutenticacao";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Metodo de Autenticação";
+            this.Text = "Modulo de Autenticação-Desktop";
             this.ResumeLayout(false);
             this.PerformLayout();
 

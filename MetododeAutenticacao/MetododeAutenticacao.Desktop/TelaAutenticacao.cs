@@ -45,10 +45,12 @@ namespace MetododeAutenticacao.Desktop
             {
                 MessageBox.Show("Senha Obrigatorio" + usuario.Senha);
                 textSenha.Focus();
+                
             }
             else
             {
                 MessageBox.Show("Seja Bem Vindo!!" + usuario.Login);
+                new TelaCadUsuario().Show();
             }
         }
     }
